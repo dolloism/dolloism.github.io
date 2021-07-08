@@ -1,0 +1,11 @@
+name: "Website 1"
+navbar:
+  title: "Website Title"
+  left:
+    - text: "HOME"
+      href: index.html
+      
+output:
+  html_document:
+    theme: sandstone
+output_dir: "."

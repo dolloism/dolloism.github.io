@@ -1,0 +1,12 @@
+---
+title: "Website 1"
+output: 
+  html_document:
+    theme: sandstone
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is the Home Page
